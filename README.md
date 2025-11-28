@@ -2,6 +2,9 @@
 
 Train a lightweight SMS spam classifier on the bundled `sms_spam_no_header.csv` dataset and produce reproducible artifacts/metrics.
 
+## Demo Site
+Streamlit App : https://aiothw3-lmelgpjropebrpwxtdzhdc.streamlit.app/
+
 ## Setup
 - Python 3.10+ recommended.
 - Install dependencies (ideally in a virtualenv):
